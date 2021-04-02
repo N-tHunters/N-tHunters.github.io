@@ -1,0 +1,41 @@
+*{
+	font-family: monospace;
+}
+
+body{
+	background: lightgray;
+}
+
+a{
+	color: white;
+	background: black;
+	text-decoration: none;
+	padding:3px;
+}
+
+a:hover{
+	color: white;
+	background: gray;
+	text-decoration: none;
+}
+
+.navbar{
+	display:inline;
+	background: lightgray;
+	padding: 5px;
+	margin:3px;
+}
+
+.navbar-el{
+	display:inline;
+	font-size: 15px;
+}
+
+
+.block{
+	border: 5px solid gray;
+	padding: 5px;
+	margin: 3px;
+	background: lightgray;
+	color: gray;
+}
